@@ -1,0 +1,10 @@
+/.idea
+/target/debug
+/target/release/.fingerprint
+/target/release/build
+/target/release/deps
+target/release/.cargo-lock
+target/CACHEDIR.TAG
+target/.rustc_info.json
+target/release/YSV_TOOL.d
+target/release/YSV_TOOL.pdb
